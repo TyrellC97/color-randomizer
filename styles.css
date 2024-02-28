@@ -52,3 +52,12 @@ button {
     cursor: pointer;
     color: white;
 }
+
+#list {
+    position: static;
+    left: 50px;
+    height: auto;
+    width: auto;
+    color: white;
+    list-style: none;
+}
