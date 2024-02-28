@@ -51,13 +51,16 @@ button {
     font-size: 22px;
     cursor: pointer;
     color: white;
+    margin: 5px
 }
 
 #list {
-    position: static;
-    left: 50px;
-    height: auto;
-    width: auto;
+    justify-content: flex-start;
     color: white;
     list-style: none;
+}
+#yo {
+    background: transparent;
+    border: 1px solid white;
+    padding: 5px 10px;
 }
